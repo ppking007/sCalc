@@ -2,6 +2,7 @@
 
 [![](https://badge.juejin.im/entry/57c8f5d02e958a0068cc7a7b/likes.svg?style=flat)](https://juejin.im/entry/57c8f5d02e958a0068cc7a7b/detail)
 
+谢谢大佬辛劳动，备份大佬代码，与本人无关。
 ## 功能说明
 A simple calculator,一个简易计算器
 
